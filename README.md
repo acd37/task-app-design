@@ -10,7 +10,7 @@ http://amchatter.herokuapp.com/
 * NodeJS, ExpressJS, PassportJS, Socket.IO, HTML5, CSS3, Bootstrap
 
 ## About
-* This is a non-function Kanban design inspiration board.
+* This is a non-functional Kanban design inspiration board.
 
 ![screenshot](https://github.com/acd37/task-app-design/blob/master/assets/images/screenshot.png)
 
