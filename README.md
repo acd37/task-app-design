@@ -12,7 +12,7 @@ http://amchatter.herokuapp.com/
 ## About
 * This is a non-function Kanban design inspiration board.
 
-![screenshot]()
+![screenshot](https://github.com/acd37/task-app-design/blob/master/assets/images/screenshot.png)
 
 
 ## License 
