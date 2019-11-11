@@ -1,5 +1,5 @@
 # Chatrr
-http://amchatter.herokuapp.com/
+https://acd37.github.io/task-app-design/
 
 ## Contributors
 @acd37
