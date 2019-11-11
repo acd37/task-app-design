@@ -157,6 +157,7 @@ nav input {
 }
 
 .card-item {
+    cursor: pointer;
     border: 1px solid rgba(194, 194, 194, 0.4);
     border-radius: 5px;
     padding: 10px;
@@ -214,4 +215,12 @@ nav input {
     font-size: 0.8em;
     color: rgba(0, 0, 0, 0.3);
     clear: left;
+}
+
+.ui-state-highlight {
+    height: 8em;
+    border: 1px solid rgba(194, 194, 194, 0.4);
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 15px;
 }
